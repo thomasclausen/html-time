@@ -6,6 +6,7 @@
 /  /Europe/Istanbul       200 Country=tr
 /  /Europe/Paris          200 Country=fr,es,it,se,dk,nl,pl,ch
 /  /Europe/Berlin         200 Country=de
+/  /Atlantic/Faroe        200 Country=fo
 /  /Europe/London         200 Country=gb,pt
 /  /America/Chicago       200 Country=us
 /  /America/Toronto       200 Country=ca
