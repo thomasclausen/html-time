@@ -9,6 +9,7 @@
   { "location": "Europe/Amsterdam", "locale": "nl-NL"},
   { "location": "Europe/Paris", "locale": "fr-FR"},
   { "location": "Europe/Berlin", "locale": "de-DE"},
+  { "location": "Atlantic/Faroe", "locale": "fo-FO"},
   { "location": "Europe/London", "locale": "en-GB"},
   { "location": "America/New_York"},
   { "location": "America/Toronto", "locale": "en-CA"},
